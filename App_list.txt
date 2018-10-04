@@ -1,0 +1,13 @@
+Applications that have been in motion. 
+
+Angular application 
+	Reactive Forms
+	test application
+
+
+Type Script
+	students.ts
+	Members.ts (member object created)
+	Members.json
+	Members.app.ts
+	feet.ts
